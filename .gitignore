@@ -1,5 +1,28 @@
-# Object file
-*.o
+# Archivos temporales de MATLAB y Simulink
+*.asv
+*.slxc
+*.mex*
+*.log
+DefectReport.txt
+slprj/
+sfprj/
+_out/
 
-# Ada Library Information
-*.ali
+# Archivos de compilación de C/C++ (Microcontroladores/DSP)
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+*.hex
+
+# Archivos temporales de sistemas operativos y entornos
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Datasets pesados o archivos de captura de señales masivos (RF/Audio)
+*.wav
+*.iq
+*.csv
