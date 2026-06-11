@@ -5,7 +5,7 @@
 Este es el molde con los 13 puntos exactos solicitados, estructurado de forma limpia para que los alumnos solo tengan que rellenar los datos técnicos de su investigación[cite: 3, 4, 5, 6, 7, 8].
 
 ```markdown
-# Memoria Técnica: Propuesta de Red/Microrred de Sensores en la Edificación
+# Memoria Técnica: Propuesta de Red/Microrred de Sensores 
 
 **Asignatura:** Comunicaciones Electrónicas y Procesado de Datos (2026)  
 **Grupo N°:** [Insertar Número]  
@@ -17,9 +17,9 @@ Este es el molde con los 13 puntos exactos solicitados, estructurado de forma li
 ## Bloque 1: Contexto y Justificación del Proyecto
 
 ### 1. Antecedentes y Necesidad del Estudio
-*Justifique aquí detalladamente el motivo de la implementación de la microrred de sensores en la edificación elegida. ¿Qué problemática resuelve? (Ej: Eficiencia energética, monitorización de la calidad del aire, seguridad estructural, automatización HVAC, etc.) [cite: 3].*
+*Justifique aquí detalladamente el motivo de la implementación de la microrred de sensores según el caso de estudio elegido. ¿Qué problemática resuelve? (Ej: Eficiencia energética, monitorización de la calidad del aire, seguridad estructural, automatización HVAC, etc.) [cite: 3].*
 
-### 2. Descripción de la Edificación
+### 2. Descripción del la Ubicación
 * Detalle las características del entorno objeto de estudio[cite: 3]:
   * **Tipo de edificación:** [Ej. Hospital, Hotel, Edificio de Oficinas, Vivienda Residencial] [cite: 3]
   * **Uso actual:** [Describir el tipo de actividades que se realizan en el inmueble] [cite: 3]
