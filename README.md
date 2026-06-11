@@ -1,4 +1,4 @@
-# Proyecto: Red/Microrred de Sensores en la Edificación
+# Proyecto: Red/Microrred de Sensores 
 **Asignatura:** Comunicaciones Electrónicas y Procesado de Datos (2026)
 **Profesora: Olivia Florencias Oliveros
 
